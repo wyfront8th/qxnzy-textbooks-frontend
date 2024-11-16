@@ -1,5 +1,10 @@
 @import './base.css';
-
+:root {
+  --el-color-primary: #2e55ef;
+  --el-color-primary-light-3: #587ffc;
+  --el-color-primary-light-7: #587ffc;
+  --el-color-primary-light-9: #ffffff;
+}
 #app {
   margin: 0;
   padding: 2rem;

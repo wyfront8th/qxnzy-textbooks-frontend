@@ -16,12 +16,12 @@ const router = createRouter({
         {
           path: '',
           name: 'textbooks-system-index',
-          component: () => import('../components/XbxxTable.vue'),
+          component: () => import('../components/xbxx/XbxxTable.vue'),
         },
         {
           path: 'bmxx',
           name: 'bmxx',
-          component: () => import('../components/XbxxTable.vue'),
+          component: () => import('../components/xbxx/XbxxTable.vue'),
         },
         {
           path: 'jcyg',

@@ -26,16 +26,17 @@ import { UserFilled } from '@element-plus/icons-vue'
   background-color: #2e55ef;
   align-items: center;
   justify-content: space-between;
-  padding: 0 24px;
+  padding: 0px 24px;
 }
 .qxnzy-title {
   font-size: 18px;
   font-weight: 400;
   color: rgb(255, 255, 255);
-  line-height: 18px;
+  line-height: 54px;
   white-space: nowrap;
   display: flex;
   min-width: 580px;
+  height: 54px;
 }
 .qxnzy-menu {
   display: flex;
